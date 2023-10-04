@@ -1,1 +1,2 @@
 # mychatbot
+LangChainを用いたチャットボット
